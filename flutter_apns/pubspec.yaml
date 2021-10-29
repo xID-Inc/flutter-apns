@@ -14,7 +14,7 @@ dependencies:
   firebase_messaging: ^10.0.2
   flutter_apns_only: 
     git:
-      url: https://github.com/xID-Inc/flutter-apns/flutter-apns.git
+      url: https://github.com/xID-Inc/flutter-apns.git
       path: flutter_apns_only
 
 dev_dependencies:
